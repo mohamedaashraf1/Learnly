@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@import "@fontsource-variable/plus-jakarta-sans";
+@theme {
+  --font-sans: "Plus Jakarta Sans Variable", system-ui, sans-serif;
+  --color-coral: #ff6b4a;
+  --color-coral-600: #f0502d;
+  --color-cream: #fff8ef;
+  --color-ink: #14213d;
+}
+html { scroll-behavior: smooth; }
+body { @apply bg-cream text-ink antialiased; }
