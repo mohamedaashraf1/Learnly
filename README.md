@@ -82,7 +82,5 @@ This repository focuses on the frontend product experience. Enrollment, progress
 
 ## Author
 
-**Mohamed Ashraf** — Full-Stack Engineer
+**Mohamed Ashraf**
 
-- [GitHub](https://github.com/mohamedaashraf1)
-- [LinkedIn](https://linkedin.com/in/m0ohamed-ashraf)
